@@ -1,4 +1,4 @@
 {
-  "Data Scientist": ["Python", "Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Machine Learning", "Data Analysis", "Deep Learning"],
-  "Data Analyst": ["Excel", "SQL", "Power BI", "Tableau", "Data Cleaning", "Python", "Statistics", "Visualization"]
+  "Data Scientist": ["Python", "Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Machine Learning", "Deep Learning"],
+  "Data Analyst": ["Excel", "SQL", "Power BI", "Tableau", "Data Cleaning", "Python", "Statistics", "Visualization","Data Analysis"]
 }
