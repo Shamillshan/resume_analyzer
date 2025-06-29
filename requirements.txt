@@ -4,6 +4,5 @@ docx2txt
 pandas
 numpy 
 scikit-learn
-tensorflow
 matplotlib
 seaborn
