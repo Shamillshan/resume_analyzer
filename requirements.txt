@@ -2,7 +2,9 @@ streamlit
 pdfplumber
 docx2txt
 pandas
+altair
 numpy 
+fpdf
 spacy
 scikit-learn    
 matplotlib
