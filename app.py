@@ -29,8 +29,7 @@ if uploaded_file:
         st.metric("📧 Email", extract_email(text))
     with col_phone:
         st.metric("📞 Phone", extract_phone(text))
-
-    # Skill Analysis
+   
     required_skills = job_data[selected_role]
     found_skills = extract_skills(text, required_skills)
     missing_skills = list(set(required_skills) - set(found_skills))

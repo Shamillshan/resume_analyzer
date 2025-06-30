@@ -1,4 +1,18 @@
 {
-  "Data Scientist": ["Python", "Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Machine Learning", "Deep Learning"],
-  "Data Analyst": ["Excel", "SQL", "Power BI", "Tableau", "Data Cleaning", "Python", "Statistics", "Visualization","Data Analysis"]
+  "Data Scientist": [
+    "Python", "Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Machine Learning", 
+    "Deep Learning", "Artificial Intelligence", "Keras", "PyTorch", "NLP", "Natural Language Processing",
+    "Data Mining", "Data Wrangling", "SQL", "Matplotlib", "Seaborn", "Statistics", 
+    "Algorithms", "Data Visualization", "Data Structures", "Reinforcement Learning", 
+    "Computer Vision", "XGBoost", "LightGBM", "Big Data", "Hadoop", "Spark", "AWS", 
+    "Google Cloud", "Data Engineering", "Model Deployment", "Model Training", "Time Series Analysis"
+  ],
+  
+  "Data Analyst": [
+    "Excel", "SQL", "Power BI", "Tableau", "Data Cleaning", "Python", "Statistics", 
+    "Visualization", "Data Analysis", "Business Intelligence", "ETL", "Data Warehousing", 
+    "Looker", "Google Analytics", "Data Reporting", "Data Modeling", "Predictive Analytics", 
+    "SQL Server", "MySQL", "PostgreSQL", "R", "DAX", "Data Governance", "Data Quality", 
+    "Pivot Tables", "Charts", "Dashboards", "A/B Testing", "Statistical Analysis", "Data Mining"
+  ]
 }
